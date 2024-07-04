@@ -1,0 +1,168 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 9,
+  "numPassedTests": 0,
+  "numFailedTests": 9,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1720080658872,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxe QueryClientProvider eklenmiş",
+          "status": "failed",
+          "title": "App.jsxe QueryClientProvider eklenmiş",
+          "duration": 43,
+          "failureMessages": [
+            "expected '/*eslint-disablejsx-a11y/anchor-is-va…' to include '<QueryClientProvider'"
+          ],
+          "location": {
+            "line": 50,
+            "column": 19
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " SideBar componentinde useEffect kaldırılmış",
+          "status": "failed",
+          "title": "SideBar componentinde useEffect kaldırılmış",
+          "duration": 24,
+          "failureMessages": [
+            "expected 'importaxiosfrom\\'axios\\';importReact,…' to not include 'useEffect(()=>{'"
+          ],
+          "location": {
+            "line": 54,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Contact componentinde useEffect kaldırılmış",
+          "status": "failed",
+          "title": "Contact componentinde useEffect kaldırılmış",
+          "duration": 10,
+          "failureMessages": [
+            "expected 'importaxiosfrom\\'axios\\';importReact,…' to not include 'useEffect(()=>{'"
+          ],
+          "location": {
+            "line": 58,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Contactlar listeleniyor",
+          "status": "failed",
+          "title": "Contactlar listeleniyor",
+          "duration": 12,
+          "failureMessages": [
+            "expected 'Once tanStackQueryi ekleyin ve useEff…' to be 'Implemented' // Object.is equality"
+          ],
+          "location": {
+            "line": 62,
+            "column": 25
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " New Butonu Çalışıyor",
+          "status": "failed",
+          "title": "New Butonu Çalışıyor",
+          "duration": 10,
+          "failureMessages": [
+            "expected 'Once tanStackQueryi ekleyin ve useEff…' to be 'Implemented' // Object.is equality"
+          ],
+          "location": {
+            "line": 68,
+            "column": 25
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Yeni kullanıcı kayıt ediliyor",
+          "status": "failed",
+          "title": "Yeni kullanıcı kayıt ediliyor",
+          "duration": 8,
+          "failureMessages": [
+            "expected 'Once tanStackQueryi ekleyin ve useEff…' to be 'Implemented' // Object.is equality"
+          ],
+          "location": {
+            "line": 75,
+            "column": 25
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Home Butonu Çalışıyor",
+          "status": "failed",
+          "title": "Home Butonu Çalışıyor",
+          "duration": 7,
+          "failureMessages": [
+            "expected 'Once tanStackQueryi ekleyin ve useEff…' to be 'Implemented' // Object.is equality"
+          ],
+          "location": {
+            "line": 92,
+            "column": 25
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kullanıcı detaylarını gösteriyor",
+          "status": "failed",
+          "title": "Kullanıcı detaylarını gösteriyor",
+          "duration": 9,
+          "failureMessages": [
+            "expected 'Once tanStackQueryi ekleyin ve useEff…' to be 'Implemented' // Object.is equality"
+          ],
+          "location": {
+            "line": 99,
+            "column": 25
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kullanıcıyı siliyor",
+          "status": "failed",
+          "title": "Kullanıcıyı siliyor",
+          "duration": 10,
+          "failureMessages": [
+            "expected 'Once tanStackQueryi ekleyin ve useEff…' to be 'Implemented' // Object.is equality"
+          ],
+          "location": {
+            "line": 107,
+            "column": 25
+          }
+        }
+      ],
+      "startTime": 1720080689088,
+      "endTime": 1720080689223,
+      "status": "failed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-8hrylz/src/__tests__/index.test.jsx"
+    }
+  ]
+}
